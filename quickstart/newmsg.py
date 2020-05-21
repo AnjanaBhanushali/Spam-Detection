@@ -21,7 +21,7 @@ def main456():
 	#r=requests.get("https://www.googleapis.com/gmail/v1/users/userId/messages")
 	#SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
 	SCOPES= ['https://mail.google.com']
-	user_id = "bhanushalianj@gmail.com"
+	user_id = "(Your email_id)"
 
 
 	creds = None
